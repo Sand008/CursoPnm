@@ -1,0 +1,20 @@
+{
+  "name": "curso-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Iniciando servidor'",
+    "dev": "echo 'Iniciando servidor dz'"
+  },
+  "keywords": [],
+  "author": "Sanderson Araujo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
